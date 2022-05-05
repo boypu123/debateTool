@@ -1,5 +1,8 @@
 # debateTool
 一个基于Vue3和Naive UI辩论小工具
+## 效果预览
+![image](https://user-images.githubusercontent.com/62825102/166852120-b0ed6198-a08c-4d02-bc2f-c61d495c1234.png)
+
 ## 运行需求
  - Node.js
 (如果不符合以上需求，请先到https://nodejs.org/zh-cn/ 下载nodejs)
